@@ -11,9 +11,6 @@
 - 💬 Real-time group chatting functionality
 - 🎩 Real-time tooltip displaying users currently editing
 
-## 🚀 Live Preview
-
-You can view the live preview of the project [here](https://code-sync-live.vercel.app/).
 
 ## 💻 Tech Stack
 
