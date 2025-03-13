@@ -28,13 +28,8 @@
 ## ⚙️ Installation
 
 ### Installation
-
-1. **Fork this repository:** Click the Fork button located in the top-right corner of this page.
-2. **Clone the repository:**
-   ```bash
-   git clone https://github.com/<your-username>/Code-Sync.git
    ```
-3. **Set .env file:**
+1. **Set .env file:**
    Inside the client and server directories rename the `.env.example` file to `.env` and set:
 
    Frontend:
@@ -49,11 +44,11 @@
    PORT=3000
    ```
 
-4. **Install dependencies:**
+2. **Install dependencies:**
    ```bash
    npm install     # Run in both client and server directories
    ```
-5. **Start the servers:**  
+3. **Start the servers:**  
    Frontend:
    ```bash
    cd client
@@ -64,11 +59,11 @@
    cd server
    npm run dev
    ```
-6. **Access the application:**
+4. **Access the application:**
    ```bash
    http://localhost:5173/
    ```
-4. **Access the application:**
+5. **Access the application:**
    ```bash
    http://localhost:5173/
    ```
